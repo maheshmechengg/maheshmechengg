@@ -3,16 +3,16 @@
 I am Mahesh Chauhan, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Natural Language Processing🤖.
 
 
-I ❤️ to work with Cloud-Native technologies. I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Docker, AWS,GCP,CI/CD, etc. and proficient with Dashboarding & monitoring tools such as R-Shiny, Grafana, Prometheus.
+I ❤️ to work with & without Cloud-Native technologies. I build robust, secure, reusable and scalable infrastructures using Cloud-native technologies such as Docker, AWS, GCP, CI/CD, MLOps etc. and proficient with Dashboarding & monitoring tools such as R-Shiny, Grafana, Prometheus.
 
 I am currently working as a Lead Data Scientist @[Datagrid](https://datagrid.co.in/). I am also a Kaggle Notebook Master and working in a domain of Data Science and Cloud from past 4+ years.
 
-Along with my full-time job, i do hands on paper with code testing.
+Along with my full-time job, i do hands on paper with code testing, POC development.
 
 
 
 - Currentlly working on:<br>
-🔭 I’m currently working on NLP Specialized tasks for Call classifications using state of the Art models <br>
+🔭 I’m currently working on NLP Specialized tasks for Call classifications using state of the Art models, Computer vision for Image classifications, Face verification <br>
 
 
 - Leaning new:<br>
