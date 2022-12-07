@@ -5,7 +5,7 @@ I am Mahesh Chauhan, a passionate and creative developer from [🇮🇳 ](https:
 
 I ❤️ to work with & without Cloud-Native technologies. I build robust, secure, reusable and scalable infrastructures using Cloud-native technologies such as Docker, AWS, GCP, CI/CD, MLOps etc. and proficient with Dashboarding & monitoring tools such as R-Shiny, Grafana, Prometheus.
 
-I am currently working as a Lead Data Scientist @[Datagrid](https://datagrid.co.in/). I am also a Kaggle Notebook Master and working in a domain of Data Science and Cloud from past 4+ years.
+I am currently working as a Lead Data Scientist @[Datagrid](https://datagrid.co.in/). I am also a Kaggle Notebook Master and working in a domain of Data Science and Cloud from past 5+ years.
 
 Along with my full-time job, i do hands on paper with code testing, POC development.
 
@@ -30,5 +30,8 @@ Along with my full-time job, i do hands on paper with code testing, POC developm
         ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/mahesh-chauhan-229b6512/) 👨🏻‍💻<br>
         ⦿ Shoot Me an [Email](mailto:maheshmechenggi@gmail.com) 💌<br>
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+    * Love to write codes
+    * Debug codes & fix working of it
+    * Love to explore new era of DS/AI/ML
 -->
